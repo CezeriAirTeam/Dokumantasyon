@@ -12,6 +12,6 @@ Ağ Protokolleri | **[TCP/IP](https://www.youtube.com/watch?v=lTFomlqPIRg&ab_cha
 Scada Bilgisayar | **[Scada Sistemi Nedir?](http://www.prowmes.com/blog/scada-sistemi-nedir/)**   
 Görüntü İşleme | **[Yolo ile Nesne Tespiti](https://www.youtube.com/watch?v=OL4ND_862GA&t=1s&ab_channel=AbdulkadirNar)**   
 Görüntü işleme | **[NVIDIA Jetson OpenCV](https://www.youtube.com/watch?v=gvmP0WRVUxI&list=PL5B692fm6--ufBviUGK3hlwL1hVSyorZx&ab_channel=NVIDIADeveloper)**  
-Opencv ile GPU nasıl kullanılır - CUDA - cuDNN | **[NVIDIA Jetson OpenCV](https://www.pyimagesearch.com/2020/02/03/how-to-use-opencvs-dnn-module-with-nvidia-gpus-cuda-and-cudnn/)**  
+Opencv ile GPU nasıl kullanılır - CUDA - cuDNN | **[ OpenCV](https://www.pyimagesearch.com/2020/02/03/how-to-use-opencvs-dnn-module-with-nvidia-gpus-cuda-and-cudnn/)**  
 YOLO object detector  | **[YOLO](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)**  
 

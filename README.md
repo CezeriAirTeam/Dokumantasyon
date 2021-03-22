@@ -14,4 +14,5 @@ Görüntü İşleme | **[Yolo ile Nesne Tespiti](https://www.youtube.com/watch?v
 Görüntü işleme | **[NVIDIA Jetson OpenCV](https://www.youtube.com/watch?v=gvmP0WRVUxI&list=PL5B692fm6--ufBviUGK3hlwL1hVSyorZx&ab_channel=NVIDIADeveloper)**  
 Opencv ile GPU nasıl kullanılır - CUDA - cuDNN | **[ OpenCV](https://www.pyimagesearch.com/2020/02/03/how-to-use-opencvs-dnn-module-with-nvidia-gpus-cuda-and-cudnn/)**  
 YOLO object detector  | **[YOLO](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)**  
+12 Machine learning Object Detection  | **[Object Detection](https://amankharwal.medium.com/12-machine-learning-projects-on-object-detection-46b32adc3c37)**  
 
